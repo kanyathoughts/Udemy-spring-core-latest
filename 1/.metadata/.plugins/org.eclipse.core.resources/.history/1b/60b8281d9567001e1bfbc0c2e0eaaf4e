@@ -1,0 +1,5 @@
+package com.love2Code.example.thymeleafdemo.controller;
+
+public class DemoController {
+
+}

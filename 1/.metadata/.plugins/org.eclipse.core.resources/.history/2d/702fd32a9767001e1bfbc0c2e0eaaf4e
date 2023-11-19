@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Thyemeleaf demo</title>
+</head>
+
+<body>
+    <p th:text="'Time on the server is ' + ${theDate}" />
+    <p>
+        th:text=<strong>"Your name is very good"</strong>
+    </p>
+
+</body>
+
+</html>
